@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+get-lyrics.ipynb
+bin/
+share/
+etc/
+lib/
+.ipynb_checkpoints/
+.DS*
+pyvenv.cfg
